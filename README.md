@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=18&duration=3000&pause=1000&color=2729E6&center=true&vCenter=true&width=620&lines=Frontend+Developer+%7C+Competitive+Programmer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A passionate Frontend Developer and Competitive Programmer.</h3>
 
